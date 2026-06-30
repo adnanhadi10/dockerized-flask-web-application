@@ -246,87 +246,47 @@ http://<VM\_IP>:8080
 
 
 
-\## Project Walkthrough
+## Project Walkthrough
 
+### 01 Source Code
 
+![Source Code](screenshots/01-flask-app-source-code.png)
 
-\### 01 Source Code
+### 02 Dockerfile
 
+![Dockerfile](screenshots/02-dockerfile-source-code.png)
 
+### 03 Project Files Created
 
-!\[Source Code](screenshots/01-source-code.png)
+![Project Files Created](screenshots/03-project-files-created.png)
 
+### 04 Docker Build Success
 
+![Docker Build Success](screenshots/04-docker-build-success.png)
 
-\### 02 Dockerfile
+### 05 Docker Image Built
 
+![Docker Image Built](screenshots/05-docker-image-built.png)
 
+### 06 Running Container
 
-!\[Dockerfile](screenshots/02-dockerfile.png)
+![Running Container](screenshots/06-running-container.png)
 
+### 07 Localhost Curl Test
 
+![Localhost Curl Test](screenshots/07-localhost-curl-test.png)
 
-\### 03 Project Files Created
+### 08 GCP Firewall Rule
 
+![GCP Firewall Rule](screenshots/08-gcp-firewall-rule-port-5000.png)
 
+### 09 Browser Test
 
-!\[Project Files Created](screenshots/03-project-files-created.png)
+![Browser Test](screenshots/09-web-app-browser-test.png)
 
+### 10 Final Project Directory
 
-
-\### 04 Docker Image Build
-
-
-
-!\[Docker Image Build](screenshots/04-docker-image-build.png)
-
-
-
-\### 05 Docker Image Built
-
-
-
-!\[Docker Image Built](screenshots/05-docker-image-built.png)
-
-
-
-\### 06 Running Container
-
-
-
-!\[Running Container](screenshots/06-running-container.png)
-
-
-
-\### 07 Localhost Curl Test
-
-
-
-!\[Localhost Curl Test](screenshots/07-localhost-curl-test.png)
-
-
-
-\### 08 GCP Firewall Rule
-
-
-
-!\[GCP Firewall Rule](screenshots/08-gcp-firewall-rule-port-5000.png)
-
-
-
-\### 09 Browser Test
-
-
-
-!\[Browser Test](screenshots/09-web-app-browser-test.png)
-
-
-
-\### 10 Final Project Directory
-
-
-
-!\[Final Project Directory](screenshots/10-final-project-directory.png)
+![Final Project Directory](screenshots/10-final-project-directory.png)
 
 
 
